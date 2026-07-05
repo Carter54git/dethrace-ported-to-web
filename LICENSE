@@ -1,0 +1,9 @@
+This project bundles [Dethrace](https://github.com/dethrace-labs/dethrace) 0.10.1.
+
+The engine source in `dethrace-0.10.1/` is licensed under the **GNU General Public License v3.0**.
+See [dethrace-0.10.1/LICENSE](dethrace-0.10.1/LICENSE) for the full text.
+
+Web shell files in `web/` and build scripts in `scripts/` are provided under the same terms
+as the Dethrace-derived code they accompany.
+
+Game assets are **not** part of this distribution — see [NOTICE.md](NOTICE.md).
