@@ -190,26 +190,6 @@ This web port is a community technical project. It is **not** affiliated with or
 
 ---
 
-## Live demo
-
-**https://retrogamescenter.ru/ports/carmaweb/index.html**
-
-Hosted by [Retro Games Center](https://retrogamescenter.ru/) — thank you for providing public browser access.
-
----
-
-## Troubleshooting
-
-| Problem | Fix |
-|---------|-----|
-| Black screen after load | Hard refresh (Ctrl+Shift+R); check console for WASM errors |
-| No sound | Click canvas or press any key once |
-| Stutter in race only | Expected on low-end devices; close other tabs |
-| Menu flicker | Ensure you use the latest build (menu should not use Asyncify sleep) |
-| Build: game data missing | Copy retail files to `./Carma/` |
-
----
-
 ## Contributing
 
 PRs welcome for web-specific fixes. Please do **not** submit copyrighted game assets.
